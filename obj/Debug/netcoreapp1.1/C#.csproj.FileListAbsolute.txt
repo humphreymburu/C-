@@ -1,0 +1,9 @@
+/Users/humphrey/Desktop/C#/bin/Debug/netcoreapp1.1/C#.deps.json
+/Users/humphrey/Desktop/C#/bin/Debug/netcoreapp1.1/C#.runtimeconfig.json
+/Users/humphrey/Desktop/C#/bin/Debug/netcoreapp1.1/C#.runtimeconfig.dev.json
+/Users/humphrey/Desktop/C#/bin/Debug/netcoreapp1.1/C#.dll
+/Users/humphrey/Desktop/C#/bin/Debug/netcoreapp1.1/C#.pdb
+/Users/humphrey/Desktop/C#/obj/Debug/netcoreapp1.1/C#.csproj.CoreCompileInputs.cache
+/Users/humphrey/Desktop/C#/obj/Debug/netcoreapp1.1/C#.AssemblyInfo.cs
+/Users/humphrey/Desktop/C#/obj/Debug/netcoreapp1.1/C#.dll
+/Users/humphrey/Desktop/C#/obj/Debug/netcoreapp1.1/C#.pdb
